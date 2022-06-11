@@ -14,3 +14,4 @@ it is starting project to learn how to Setup Node Environment  ,Integrating Open
 it use as Page for Weather-Journal App to get dynamic data for API ,user and dynamic data function to use and Dynamically Update UI.
 ## dependencies
 the dependencies is the body-parser package , cors and express for Node as Project Environment Setup and html,css and Vanilla JS for design.
+s
